@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 /******************  Game State Stack *********************************************/
 
@@ -61,14 +61,14 @@ private:
         "",
         "I was inspired the algorithm suggested by Nick Koumaris:",
         "https://www.youtube.com/watch?v=E_hg96tixLM&t=6s",
-        "but my code is differnt.",
+        "but my code is different.",
 		"",
         "Space - Analog / Digital Clock Mode",
         "F1 or I - short information about this game",
         "Esc - quit",
         "",
         "Programmed in C++ with SFML 3 library.",
-        "� Oleh Suchalkin  2025-2026"
+        "© Oleh Suchalkin  2025-2026"
     };
 public:
     InfoState(Game& game);
